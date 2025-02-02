@@ -1,6 +1,6 @@
 📊 BMI Calculator 🚀
 
-A simple, responsive, and interactive Body Mass Index (BMI) Calculator built with HTML, Bootstrap, and JavaScript. This project helps users quickly determine their BMI category using a clean UI and real-time calculations.
+• A simple, responsive, and interactive Body Mass Index (BMI) Calculator built with HTML, Bootstrap, and JavaScript. This project helps users quickly determine their BMI category using a clean UI and real-time calculations.
 
 ✨ Features
 
@@ -14,15 +14,15 @@ A simple, responsive, and interactive Body Mass Index (BMI) Calculator built wit
 
 🎥 Live Demo
 
-🔗 View Demo (Replace with your GitHub Pages link if hosted)
+🔗  ([View Demo](https://kuldeeplakum.github.io/BMI-Body-Mass-Index-Calculator/))
 
 🛠️ Technologies Used
 
-HTML – Structuring the BMI Calculator.
+• HTML – Structuring the BMI Calculator.
 
-Bootstrap 5 – For styling and responsiveness.
+• Bootstrap 5 – For styling and responsiveness.
 
-JavaScript – For real-time BMI calculation and category classification.
+• JavaScript – For real-time BMI calculation and category classification.
 
 🚀 How to Use
 
@@ -42,27 +42,27 @@ JavaScript – For real-time BMI calculation and category classification.
 
 📜 Code Overview
 
-HTML Structure (index.html)
+• HTML Structure (index.html)
 
-Uses Bootstrap for layout and styling.
+• Uses Bootstrap for layout and styling.
 
-Includes an input form with weight & height fields.
+• Includes an input form with weight & height fields.
 
-Displays BMI value and health classification.
+• Displays BMI value and health classification.
 
-CSS (style.css)
+• CSS (style.css)
 
-Minimal custom styles for extra responsiveness.
+• Minimal custom styles for extra responsiveness.
 
-JavaScript (app.js)
+• JavaScript (app.js)
 
-Takes user input, calculates BMI, and updates the UI dynamically.
+• Takes user input, calculates BMI, and updates the UI dynamically.
 
-Provides clear BMI classifications based on the calculated value.
+• Provides clear BMI classifications based on the calculated value.
 
 🛠️ Installation & Setup
 
-To run the project locally:
+• To run the project locally:
 
 1️⃣ Clone this repository:
 
@@ -74,7 +74,7 @@ git clone https://github.com/KuldeepLakum/bmi-calculator.git
 
 🤝 Contributing
 
-Want to improve this project? Feel free to fork and submit a PR! 💡
+• Want to improve this project? Feel free to fork and submit a PR! 💡
 
 🏆 Show Your Support
 
@@ -86,4 +86,4 @@ Want to improve this project? Feel free to fork and submit a PR! 💡
 
 💡 Start calculating your BMI today! Stay healthy, stay fit! 💪🔥
 
-Let me know if you need any modifications! 🚀
+• Let me know if you need any modifications! 🚀
